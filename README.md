@@ -2,7 +2,7 @@
 
 > Snap a photo of a sick leaf. Get the disease, severity and a treatment plan in seconds.
 
-**🔗 Live demo:** https://leafguide.lovable.app/
+**🔗 Live demo:** https://id-preview--842a0d5a-ad58-4c84-87cf-49fb96334c74.lovable.app
 
 ---
 
